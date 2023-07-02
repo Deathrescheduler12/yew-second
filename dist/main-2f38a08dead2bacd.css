@@ -1,0 +1,648 @@
+.my-mocha-rosewater {
+  background: #1e1e2e;
+  color: #f5e0dc;
+}
+
+.my-mocha-flamingo {
+  background: #1e1e2e;
+  color: #f2cdcd;
+}
+
+.my-mocha-pink {
+  background: #1e1e2e;
+  color: #f5c2e7;
+}
+
+.my-mocha-mauve {
+  background: #1e1e2e;
+  color: #cba6f7;
+}
+
+.my-mocha-red {
+  background: #1e1e2e;
+  color: #f38ba8;
+}
+
+.my-mocha-maroon {
+  background: #1e1e2e;
+  color: #eba0ac;
+}
+
+.my-mocha-peach {
+  background: #1e1e2e;
+  color: #fab387;
+}
+
+.my-mocha-yellow {
+  background: #1e1e2e;
+  color: #f9e2af;
+}
+
+.my-mocha-green {
+  background: #1e1e2e;
+  color: #a6e3a1;
+}
+
+.my-mocha-teal {
+  background: #1e1e2e;
+  color: #94e2d5;
+}
+
+.my-mocha-sky {
+  background: #1e1e2e;
+  color: #89dceb;
+}
+
+.my-mocha-sapphire {
+  background: #1e1e2e;
+  color: #74c7ec;
+}
+
+.my-mocha-blue {
+  background: #1e1e2e;
+  color: #89b4fa;
+}
+
+.my-mocha-lavender {
+  background: #1e1e2e;
+  color: #b4befe;
+}
+
+.my-mocha-text {
+  background: #1e1e2e;
+  color: #cdd6f4;
+}
+
+.my-mocha-subtext1 {
+  background: #1e1e2e;
+  color: #bac2de;
+}
+
+.my-mocha-subtext0 {
+  background: #1e1e2e;
+  color: #a6adc8;
+}
+
+.my-mocha-overlay2 {
+  background: #1e1e2e;
+  color: #9399b2;
+}
+
+.my-mocha-overlay1 {
+  background: #1e1e2e;
+  color: #7f849c;
+}
+
+.my-mocha-overlay0 {
+  background: #1e1e2e;
+  color: #6c7086;
+}
+
+.my-mocha-surface2 {
+  background: #1e1e2e;
+  color: #585b70;
+}
+
+.my-mocha-surface1 {
+  background: #1e1e2e;
+  color: #45475a;
+}
+
+.my-mocha-surface0 {
+  background: #1e1e2e;
+  color: #313244;
+}
+
+.my-mocha-base {
+  background: #1e1e2e;
+  color: #1e1e2e;
+}
+
+.my-mocha-mantle {
+  background: #1e1e2e;
+  color: #181825;
+}
+
+.my-mocha-crust {
+  background: #1e1e2e;
+  color: #11111b;
+}
+
+.my-macchiato-rosewater {
+  background: #24273a;
+  color: #f4dbd6;
+}
+
+.my-macchiato-flamingo {
+  background: #24273a;
+  color: #f0c6c6;
+}
+
+.my-macchiato-pink {
+  background: #24273a;
+  color: #f5bde6;
+}
+
+.my-macchiato-mauve {
+  background: #24273a;
+  color: #c6a0f6;
+}
+
+.my-macchiato-red {
+  background: #24273a;
+  color: #ed8796;
+}
+
+.my-macchiato-maroon {
+  background: #24273a;
+  color: #ee99a0;
+}
+
+.my-macchiato-peach {
+  background: #24273a;
+  color: #f5a97f;
+}
+
+.my-macchiato-yellow {
+  background: #24273a;
+  color: #eed49f;
+}
+
+.my-macchiato-green {
+  background: #24273a;
+  color: #a6da95;
+}
+
+.my-macchiato-teal {
+  background: #24273a;
+  color: #8bd5ca;
+}
+
+.my-macchiato-sky {
+  background: #24273a;
+  color: #91d7e3;
+}
+
+.my-macchiato-sapphire {
+  background: #24273a;
+  color: #7dc4e4;
+}
+
+.my-macchiato-blue {
+  background: #24273a;
+  color: #8aadf4;
+}
+
+.my-macchiato-lavender {
+  background: #24273a;
+  color: #b7bdf8;
+}
+
+.my-macchiato-text {
+  background: #24273a;
+  color: #cad3f5;
+}
+
+.my-macchiato-subtext1 {
+  background: #24273a;
+  color: #b8c0e0;
+}
+
+.my-macchiato-subtext0 {
+  background: #24273a;
+  color: #a5adcb;
+}
+
+.my-macchiato-overlay2 {
+  background: #24273a;
+  color: #939ab7;
+}
+
+.my-macchiato-overlay1 {
+  background: #24273a;
+  color: #8087a2;
+}
+
+.my-macchiato-overlay0 {
+  background: #24273a;
+  color: #6e738d;
+}
+
+.my-macchiato-surface2 {
+  background: #24273a;
+  color: #5b6078;
+}
+
+.my-macchiato-surface1 {
+  background: #24273a;
+  color: #494d64;
+}
+
+.my-macchiato-surface0 {
+  background: #24273a;
+  color: #363a4f;
+}
+
+.my-macchiato-base {
+  background: #24273a;
+  color: #24273a;
+}
+
+.my-macchiato-mantle {
+  background: #24273a;
+  color: #1e2030;
+}
+
+.my-macchiato-crust {
+  background: #24273a;
+  color: #181926;
+}
+
+.my-frappe-rosewater {
+  background: #303446;
+  color: #f2d5cf;
+}
+
+.my-frappe-flamingo {
+  background: #303446;
+  color: #eebebe;
+}
+
+.my-frappe-pink {
+  background: #303446;
+  color: #f4b8e4;
+}
+
+.my-frappe-mauve {
+  background: #303446;
+  color: #ca9ee6;
+}
+
+.my-frappe-red {
+  background: #303446;
+  color: #e78284;
+}
+
+.my-frappe-maroon {
+  background: #303446;
+  color: #ea999c;
+}
+
+.my-frappe-peach {
+  background: #303446;
+  color: #ef9f76;
+}
+
+.my-frappe-yellow {
+  background: #303446;
+  color: #e5c890;
+}
+
+.my-frappe-green {
+  background: #303446;
+  color: #a6d189;
+}
+
+.my-frappe-teal {
+  background: #303446;
+  color: #81c8be;
+}
+
+.my-frappe-sky {
+  background: #303446;
+  color: #99d1db;
+}
+
+.my-frappe-sapphire {
+  background: #303446;
+  color: #85c1dc;
+}
+
+.my-frappe-blue {
+  background: #303446;
+  color: #8caaee;
+}
+
+.my-frappe-lavender {
+  background: #303446;
+  color: #babbf1;
+}
+
+.my-frappe-text {
+  background: #303446;
+  color: #c6d0f5;
+}
+
+.my-frappe-subtext1 {
+  background: #303446;
+  color: #b5bfe2;
+}
+
+.my-frappe-subtext0 {
+  background: #303446;
+  color: #a5adce;
+}
+
+.my-frappe-overlay2 {
+  background: #303446;
+  color: #949cbb;
+}
+
+.my-frappe-overlay1 {
+  background: #303446;
+  color: #838ba7;
+}
+
+.my-frappe-overlay0 {
+  background: #303446;
+  color: #737994;
+}
+
+.my-frappe-surface2 {
+  background: #303446;
+  color: #626880;
+}
+
+.my-frappe-surface1 {
+  background: #303446;
+  color: #51576d;
+}
+
+.my-frappe-surface0 {
+  background: #303446;
+  color: #414559;
+}
+
+.my-frappe-base {
+  background: #303446;
+  color: #303446;
+}
+
+.my-frappe-mantle {
+  background: #303446;
+  color: #292c3c;
+}
+
+.my-frappe-crust {
+  background: #303446;
+  color: #232634;
+}
+
+.my-latte-rosewater {
+  background: #eff1f5;
+  color: #dc8a78;
+}
+
+.my-latte-flamingo {
+  background: #eff1f5;
+  color: #dd7878;
+}
+
+.my-latte-pink {
+  background: #eff1f5;
+  color: #ea76cb;
+}
+
+.my-latte-mauve {
+  background: #eff1f5;
+  color: #8839ef;
+}
+
+.my-latte-red {
+  background: #eff1f5;
+  color: #d20f39;
+}
+
+.my-latte-maroon {
+  background: #eff1f5;
+  color: #e64553;
+}
+
+.my-latte-peach {
+  background: #eff1f5;
+  color: #fe640b;
+}
+
+.my-latte-yellow {
+  background: #eff1f5;
+  color: #df8e1d;
+}
+
+.my-latte-green {
+  background: #eff1f5;
+  color: #40a02b;
+}
+
+.my-latte-teal {
+  background: #eff1f5;
+  color: #179299;
+}
+
+.my-latte-sky {
+  background: #eff1f5;
+  color: #04a5e5;
+}
+
+.my-latte-sapphire {
+  background: #eff1f5;
+  color: #209fb5;
+}
+
+.my-latte-blue {
+  background: #eff1f5;
+  color: #1e66f5;
+}
+
+.my-latte-lavender {
+  background: #eff1f5;
+  color: #7287fd;
+}
+
+.my-latte-text {
+  background: #eff1f5;
+  color: #4c4f69;
+}
+
+.my-latte-subtext1 {
+  background: #eff1f5;
+  color: #5c5f77;
+}
+
+.my-latte-subtext0 {
+  background: #eff1f5;
+  color: #6c6f85;
+}
+
+.my-latte-overlay2 {
+  background: #eff1f5;
+  color: #7c7f93;
+}
+
+.my-latte-overlay1 {
+  background: #eff1f5;
+  color: #8c8fa1;
+}
+
+.my-latte-overlay0 {
+  background: #eff1f5;
+  color: #9ca0b0;
+}
+
+.my-latte-surface2 {
+  background: #eff1f5;
+  color: #acb0be;
+}
+
+.my-latte-surface1 {
+  background: #eff1f5;
+  color: #bcc0cc;
+}
+
+.my-latte-surface0 {
+  background: #eff1f5;
+  color: #ccd0da;
+}
+
+.my-latte-crust {
+  background: #eff1f5;
+  color: #dce0e8;
+}
+
+.my-latte-mantle {
+  background: #eff1f5;
+  color: #e6e9ef;
+}
+
+.my-latte-base {
+  background: #eff1f5;
+  color: #eff1f5;
+}
+
+html {
+  background-color: greenyellow;
+}
+
+header * {
+  display: inline;
+  max-width: fit-content;
+}
+
+header {
+  border-radius: 4px;
+  padding-bottom: 10px;
+  position: relative;
+  bottom: 2%;
+}
+
+header button {
+  position: relative;
+  left: 50%;
+  height: 30px;
+  border-radius: 10px;
+}
+
+header nav a {
+  font-size: 22;
+  margin-right: 40px;
+}
+
+header nav {
+  position: relative;
+  left: 10%;
+}
+
+header h2 {
+  font-size: 32px;
+}
+
+.slide img {
+  height: 90%;
+}
+
+.slide .text-area {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  opacity: 0.7;
+  overflow: hidden;
+}
+
+.slide .text-area * {
+  background: none;
+  margin-left: 10px;
+}
+
+.slide .text-area h3 {
+  font-size: 24px;
+}
+
+.slide .text-area p {
+  font-size: 22px;
+}
+
+.slide {
+  position: relative;
+  left: 17%;
+  max-width: fit-content;
+}
+
+.slide-1 {
+  display: none;
+  animation: FadeVisible, 2s, forwards;
+}
+
+.slide-2 {
+  display: block;
+}
+
+.product {
+  max-width: 190px;
+  max-height: 200px;
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 10px;
+  border-radius: 4px;
+}
+
+.product * {
+  display: block;
+  margin-left: 10px;
+}
+
+.product:hover {
+  animation-name: sineAnimation;
+  animation-duration: 1.5s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+.product .rating::before {
+  content: "rating: ";
+}
+
+.items-rec {
+  margin-top: 100px;
+  margin-left: 300px;
+  max-width: fit-content;
+}
+
+@keyframes sineAnimation {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(calc(-10px * sin(2000)));
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@keyframes FadeVisible {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 100;
+  }
+}
